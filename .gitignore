@@ -1,3 +1,4 @@
 
 .DS_Store
 copy-to-boot/wpa_supplicant.conf
+password.txt
